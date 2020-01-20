@@ -1,0 +1,16 @@
+Some of the important Java 8 features are;
+
+
+forEach() method in Iterable interface
+default and static methods in Interfaces
+Functional Interfaces and Lambda Expressions
+Java Stream API for Bulk Data Operations on Collections
+Java Time API
+Collection API improvements
+Concurrency API improvements
+Java IO improvements
+Miscellaneous Core API improvements
+Let’s have a brief look on these Java 8 features. I will provide some code snippets for better understanding, so if you want to run programs in Java 8, you will have to setup Java 8 environment by following steps.
+
+Download JDK8 and install it. Installation is simple like other java versions. JDK installation is required to write, compile and run the program in Java.
+Download latest Eclipse IDE, it provides support for java 8 now. Make sure your projects build path is using Java 8 library.

@@ -1,0 +1,5 @@
+analyssis\ContentAnalyser.class
+data\WordCounterDAO.class
+application\TextFileAnalyzer.class
+data\WordCounterDAOImpl.class
+analyssis\ContentAnalyserImpl.class

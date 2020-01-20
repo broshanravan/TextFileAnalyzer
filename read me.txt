@@ -1,0 +1,14 @@
+The main class which runs this application is:
+TextFileAnalyzer.java 
+when running this class the user will be prompted on the console to enter the name amd path of the text file to be interrogated.
+It will then display the following information about the content of the file.
+
+	•	Maximum word length and number of words with that length
+	•	Minimum word length and number of words with that length
+	•	Numbers of words within the file
+	•	Number of words with different length.
+	•	Average length of words within the file.
+	•	The most common word length and the number of words with that length
+
+
+There is also a Unit Test module being added to the project to help with unit testing the functions.
